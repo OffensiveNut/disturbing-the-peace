@@ -9,7 +9,7 @@ Log yang jujur tidak mengurangi nilai, sebanyak apa pun AI dipakai. Yang mengura
 - Dipakai: (bagian kode yang kamu ambil, misalnya nama fungsi dan file)
 - Diubah: (apa yang kamu ubah atau perbaiki dari hasil AI, dan kenapa)
 
-## (Entri berikutnya)
-- Prompt:
-- Dipakai:
-- Diubah:
+## api.go
+- Prompt: berikan aku contoh implementasi kode untuk b1-b3, dan buatkan tasklist. [Requirement ETS Backend - PinjamKampus.docx]
+- Dipakai: semua
+- Diubah: api.go, karena keterbatasan waktu, dan karena dokumen cukup sulit dipahami/dibaca
