@@ -1,7 +1,7 @@
 # PinjamKampus API
 
-- Nama dan NRP:
-- Persona:
+- Nama dan NRP: Muhammad Rasya Alghifari
+- Persona: E
 - Cara menjalankan: `go run .` lalu buka http://localhost:8080
 
 ## Fitur
