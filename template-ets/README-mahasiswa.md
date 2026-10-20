@@ -12,8 +12,8 @@
 - [x] B5 Deteksi bentrok (409)
 - [x] B6 Ubah dan hapus
 - [x] B7 Aman untuk permintaan bersamaan
-- [x] Fitur khas persona
-- [ ] Change request
+- [x] Fitur khas persona: blokir jadwal
+- [x] Change request: ringkasan per tanggal
 
 ## Yang belum selesai
-(Tulis jujur bagian mana yang belum berjalan.)
+persona E tidak tersedia di repo, path `/blokir`, field `alasan`, dan status `dibatalkan` adalah asumsi yang dipakai konsisten di kode dan dokumentasi.
